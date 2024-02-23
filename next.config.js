@@ -4,7 +4,6 @@ const nextConfig = {
         loader: 'akamai',
         path: '',
       },
-      assetPrefix: './',
       output: 'export'
 }
 
